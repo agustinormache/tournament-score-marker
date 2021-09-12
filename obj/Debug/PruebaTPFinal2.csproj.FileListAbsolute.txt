@@ -1,0 +1,33 @@
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\TPFinalLabI\bin\Debug\PruebaTPFinal2.exe.config
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\TPFinalLabI\bin\Debug\PruebaTPFinal2.exe
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\TPFinalLabI\bin\Debug\PruebaTPFinal2.pdb
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\TPFinalLabI\obj\Debug\PruebaTPFinal2.csprojAssemblyReference.cache
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\TPFinalLabI\obj\Debug\PruebaTPFinal2.Form1.resources
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\TPFinalLabI\obj\Debug\PruebaTPFinal2.Form2.resources
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\TPFinalLabI\obj\Debug\PruebaTPFinal2.Properties.Resources.resources
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\TPFinalLabI\obj\Debug\PruebaTPFinal2.csproj.GenerateResource.cache
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\TPFinalLabI\obj\Debug\PruebaTPFinal2.csproj.CoreCompileInputs.cache
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\TPFinalLabI\obj\Debug\PruebaTPFinal2.exe
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\TPFinalLabI\obj\Debug\PruebaTPFinal2.pdb
+C:\Users\agust\OneDrive\Escritorio\Final Laboratorio 1\02 TPFinalLabIFormulario\bin\Debug\PruebaTPFinal2.exe.config
+C:\Users\agust\OneDrive\Escritorio\Final Laboratorio 1\02 TPFinalLabIFormulario\bin\Debug\PruebaTPFinal2.exe
+C:\Users\agust\OneDrive\Escritorio\Final Laboratorio 1\02 TPFinalLabIFormulario\bin\Debug\PruebaTPFinal2.pdb
+C:\Users\agust\OneDrive\Escritorio\Final Laboratorio 1\02 TPFinalLabIFormulario\obj\Debug\PruebaTPFinal2.csprojAssemblyReference.cache
+C:\Users\agust\OneDrive\Escritorio\Final Laboratorio 1\02 TPFinalLabIFormulario\obj\Debug\PruebaTPFinal2.Form1.resources
+C:\Users\agust\OneDrive\Escritorio\Final Laboratorio 1\02 TPFinalLabIFormulario\obj\Debug\PruebaTPFinal2.Form2.resources
+C:\Users\agust\OneDrive\Escritorio\Final Laboratorio 1\02 TPFinalLabIFormulario\obj\Debug\PruebaTPFinal2.Properties.Resources.resources
+C:\Users\agust\OneDrive\Escritorio\Final Laboratorio 1\02 TPFinalLabIFormulario\obj\Debug\PruebaTPFinal2.csproj.GenerateResource.cache
+C:\Users\agust\OneDrive\Escritorio\Final Laboratorio 1\02 TPFinalLabIFormulario\obj\Debug\PruebaTPFinal2.csproj.CoreCompileInputs.cache
+C:\Users\agust\OneDrive\Escritorio\Final Laboratorio 1\02 TPFinalLabIFormulario\obj\Debug\PruebaTPFinal2.exe
+C:\Users\agust\OneDrive\Escritorio\Final Laboratorio 1\02 TPFinalLabIFormulario\obj\Debug\PruebaTPFinal2.pdb
+D:\Escritorio\TUP\01 Primer Año\01 Primer Cuatrimestre\Laboratorio I\Final Laboratorio 1 (APROBADO)\02 TPFinalLabIFormulario\bin\Debug\PruebaTPFinal2.exe.config
+D:\Escritorio\TUP\01 Primer Año\01 Primer Cuatrimestre\Laboratorio I\Final Laboratorio 1 (APROBADO)\02 TPFinalLabIFormulario\bin\Debug\PruebaTPFinal2.exe
+D:\Escritorio\TUP\01 Primer Año\01 Primer Cuatrimestre\Laboratorio I\Final Laboratorio 1 (APROBADO)\02 TPFinalLabIFormulario\bin\Debug\PruebaTPFinal2.pdb
+D:\Escritorio\TUP\01 Primer Año\01 Primer Cuatrimestre\Laboratorio I\Final Laboratorio 1 (APROBADO)\02 TPFinalLabIFormulario\obj\Debug\PruebaTPFinal2.csprojAssemblyReference.cache
+D:\Escritorio\TUP\01 Primer Año\01 Primer Cuatrimestre\Laboratorio I\Final Laboratorio 1 (APROBADO)\02 TPFinalLabIFormulario\obj\Debug\PruebaTPFinal2.Form1.resources
+D:\Escritorio\TUP\01 Primer Año\01 Primer Cuatrimestre\Laboratorio I\Final Laboratorio 1 (APROBADO)\02 TPFinalLabIFormulario\obj\Debug\PruebaTPFinal2.Form2.resources
+D:\Escritorio\TUP\01 Primer Año\01 Primer Cuatrimestre\Laboratorio I\Final Laboratorio 1 (APROBADO)\02 TPFinalLabIFormulario\obj\Debug\PruebaTPFinal2.Properties.Resources.resources
+D:\Escritorio\TUP\01 Primer Año\01 Primer Cuatrimestre\Laboratorio I\Final Laboratorio 1 (APROBADO)\02 TPFinalLabIFormulario\obj\Debug\PruebaTPFinal2.csproj.GenerateResource.cache
+D:\Escritorio\TUP\01 Primer Año\01 Primer Cuatrimestre\Laboratorio I\Final Laboratorio 1 (APROBADO)\02 TPFinalLabIFormulario\obj\Debug\PruebaTPFinal2.csproj.CoreCompileInputs.cache
+D:\Escritorio\TUP\01 Primer Año\01 Primer Cuatrimestre\Laboratorio I\Final Laboratorio 1 (APROBADO)\02 TPFinalLabIFormulario\obj\Debug\PruebaTPFinal2.exe
+D:\Escritorio\TUP\01 Primer Año\01 Primer Cuatrimestre\Laboratorio I\Final Laboratorio 1 (APROBADO)\02 TPFinalLabIFormulario\obj\Debug\PruebaTPFinal2.pdb
